@@ -1,0 +1,62 @@
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-linkedin {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+
+
+h3 {
+  color: white;
+  text-align: center;
+}
+
+
+p {
+  color: white;
+  text-align: center;
+}
+
+.illustration {
+  position: relative;
+  left: 500px;
+  max-width: 25%;
+  max-height: 50;
+  max-height: var(--image-max-width);
+  margin-top: var(--image-margin);
+}
